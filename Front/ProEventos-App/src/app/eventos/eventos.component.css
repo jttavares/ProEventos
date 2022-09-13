@@ -1,1 +1,5 @@
-/* No CSS *//*# sourceMappingURL=eventos.component.css.map */
+/* You can add global styles to this file, and also import other style files */
+@import url(c:\Users\tavar\source\Formacoes\DotNetBackendFormation\DotNet-BackendFormation\Net5Angluar\ProEventos\Front\ProEventos-App\node_modules\bootstrap\dist\css\bootstrap.min.css);
+@import url(c:\Users\tavar\source\Formacoes\DotNetBackendFormation\DotNet-BackendFormation\Net5Angluar\ProEventos\Front\ProEventos-App\node_modules\ngx-bootstrap\datepicker\bs-datepicker.css);
+@import url(c:\Users\tavar\source\Formacoes\DotNetBackendFormation\DotNet-BackendFormation\Net5Angluar\ProEventos\Front\ProEventos-App\node_modules\@fortawesome\fontawesome-free\css\all.min.css);
+/*# sourceMappingURL=eventos.component.css.map */

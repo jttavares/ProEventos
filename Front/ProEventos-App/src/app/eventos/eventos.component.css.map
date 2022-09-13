@@ -1,8 +1,9 @@
 {
     "version": 3,
-    "mappings": "",
+    "mappings": "ACAA,+EAA+E;AAE/E,OAAO,CAAP,iLAAO;AACP,OAAO,CAAP,uLAAO;AACP,OAAO,CAAP,0LAAO",
     "sources": [
-        "eventos.component.sass"
+        "eventos.component.sass",
+        "../../styles.sass"
     ],
     "names": [],
     "file": "eventos.component.css"
