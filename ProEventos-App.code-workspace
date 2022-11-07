@@ -1,0 +1,27 @@
+{
+	"folders": [
+		{
+			"path": "Front\\ProEventos-App"
+		},
+		{
+			"path": "Back"
+		}
+	],
+	"settings": {
+		"sqltools.connections": [
+			{
+				"previewLimit": 50,
+				"driver": "SQLite",
+				"name": "ProEventos",
+				"group": "ProEventos",
+				"database": "${workspaceFolder:Back}/src/ProEventos.API/ProEventos.db"
+			},
+			{
+				"previewLimit": 50,
+				"driver": "SQLite",
+				"name": "ProEventos",
+				"database": "${workspaceFolder:Back}/src/ProEventos.API/ProEventos.db"
+			}
+		]
+	}
+}
